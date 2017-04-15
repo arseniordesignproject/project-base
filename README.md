@@ -1,3 +1,7 @@
+---
+title: Augmented Reality Senior Design Project
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/arseniordesignproject/project-base/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
