@@ -8,7 +8,8 @@ The purpose of this document is to detail the experience the user will have whil
 
 ## Table of Contents
 
-- [[Glossary]]
+{:toc}
+<!-- - [[Glossary]]
 - [[Interface Elements]]
     - [[Welcome/Splash Screen]]
     - [[Main Window]]
@@ -26,7 +27,7 @@ The purpose of this document is to detail the experience the user will have whil
 - [[Stretch Features]]
     - [[Parts List]]
     - [[Current Parts List]]
-    - [[Object Recognition]]
+    - [[Object Recognition]] -->
 
 ## Glossary
 
