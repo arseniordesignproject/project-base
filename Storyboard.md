@@ -1,5 +1,6 @@
 ---
 title: Storyboard
+layout: default
 ---
 
 This document outlines the user-interface design decisions we have made as part of our project.

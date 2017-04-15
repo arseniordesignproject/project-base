@@ -1,5 +1,6 @@
 ---
 title: Augmented Reality Senior Design Project
+layout: default
 ---
 
 ## Welcome to GitHub Pages
