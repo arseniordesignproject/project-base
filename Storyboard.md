@@ -9,25 +9,6 @@ The purpose of this document is to detail the experience the user will have whil
 ## Table of Contents
 
 {:toc}
-<!-- - [[Glossary]]
-- [[Interface Elements]]
-    - [[Welcome/Splash Screen]]
-    - [[Main Window]]
-        - [[Start Button]]
-        - [[Resume Button]]
-        - [[Instructions Button]]
-        - [[Settings Button]]
-    - [[Instructions Window]]
-        - [[Text Window]]
-        - [[Next Button]]
-        - [[Previous Button]]
-        - [[Exit Button]]
-    - [[The Model]]
-        - [[Model Animation]]
-- [[Stretch Features]]
-    - [[Parts List]]
-    - [[Current Parts List]]
-    - [[Object Recognition]] -->
 
 ## Glossary
 
