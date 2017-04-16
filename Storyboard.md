@@ -9,6 +9,7 @@ The purpose of this document is to detail the experience the user will have whil
 
 ## Table of Contents
 
+* This will become a table of contents (this text will be scraped).
 {:toc}
 
 ## Glossary
