@@ -31,6 +31,11 @@ There are sample [instructions](https://arseniordesignproject.github.io/project-
 
 The [storyboard](https://arseniordesignproject.github.io/project-base/storyboard) contains information on the design of the user interface, including our design decisions for user interface elements.
 
+### Model Code
+
+The [model](https://arseniordesignproject.github.io/project-base/model) documentation contains information on how we programmed the model code for our project.
+
+
 # GitHub Repo
 
 If you would like to take a look at any of the code, you can find it at [our GitHub page](https://github.com/arseniordesignproject).
